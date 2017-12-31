@@ -1,3 +1,3 @@
 def display_board
-    print "Tic Tac Toe board"
+    puts "Tic Tac Toe board"
   end
